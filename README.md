@@ -1,5 +1,3 @@
-# my-awesome-token-dapp
-
 # My Awesome Token DApp
 
 This project is a decentralized application (DApp) for interacting with an ERC-20 token. 
