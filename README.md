@@ -19,6 +19,8 @@ Before you can run this DApp, you'll need the following:
 ```bash
 git clone https://github.com/abdohomad/my-awesome-token-dapp.git
 ```
+Compile and deploy the contract on your local network.
+
 #### Replace the contract address in the app.js file:
 ##### const contractAddress = "YOUR_DEPLOYED_CONTRACT_ADDRESS";
 
